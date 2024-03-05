@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Halit, a third-year CS student at Toronto Metropolitan University.
+
+As a freelancer, I've specialized in web and mobile development, but recently, I've also started getting into machine learning and AI, drawn in by all the new exciting and cool stuff that's been coming out!
+
+If you want, feel free to reach me out
+
+
 <!--
 **halitdincer/halitdincer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
