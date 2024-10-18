@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Halit, a third-year CS student at Toronto Metropolitan University.
+I'm Halit, a fourth-year CS student at Toronto Metropolitan University.
 
 As a freelancer, I've specialized in web and mobile development, but recently, I've also started getting into machine learning and AI, drawn in by all the new exciting and cool stuff that's been coming out!
 
