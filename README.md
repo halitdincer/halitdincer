@@ -2,8 +2,6 @@
 
 I'm Halit, a Software Engineer at Mark43 and a CS graduate from Toronto Metropolitan University.
 
-If you want, feel free to reach me out
-
 
 <!--
 **halitdincer/halitdincer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
